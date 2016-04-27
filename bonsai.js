@@ -1,3 +1,7 @@
+/* Author: Yegor Borisenco <pimmey@pimmey.com> */
+
+'use strict';
+
 var intervalTime = 1000 * 60; // 1 minute
 var morningWatering = 10;
 var eveningWatering = 17;
