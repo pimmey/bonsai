@@ -1,0 +1,26 @@
+{
+  "name": "bonsai",
+  "version": "1.0.0",
+  "description": "Timer to water my bonsai",
+  "main": "bonsai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimmey/bonsai.git"
+  },
+  "keywords": [
+    "bonsai",
+    "timer"
+  ],
+  "author": "Yegor Borisenco <pimmey@pimmey.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimmey/bonsai/issues"
+  },
+  "homepage": "https://github.com/pimmey/bonsai#readme",
+  "dependencies": {
+    "node-notifier": "^4.5.0"
+  }
+}
