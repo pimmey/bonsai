@@ -11,12 +11,6 @@ var date;
 var hours;
 var minutes;
 
-notifier.notify({
-    'title': 'Bonsai watering',
-    'message': 'Time to water your plant',
-    'icon': './bonsai-icn.png'
-});
-
 setInterval(function () {
     date = new Date();
     hours = date.getHours();
