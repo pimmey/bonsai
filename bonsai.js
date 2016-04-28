@@ -27,7 +27,8 @@ setInterval(function () {
         notifier.notify({
             'title': 'Bonsai watering',
             'message': 'Time to water your plant',
-            'icon': './bonsai-icn.png'
+            'icon': './bonsai-icn.png',
+            'wait': true
         });
     }
 
